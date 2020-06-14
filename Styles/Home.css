@@ -1,0 +1,40 @@
+
+.heading h1 {
+    font-family: "Bitter", serif;
+    font-size: 3em;
+    text-align: center;
+    margin: 50px auto;
+}
+.top-paralax {
+    background-image: url(../Images/Rocky\ Mountains\ Wide.jpg);
+    padding: 100px;
+    height: 300px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid goldenrod;
+    border-bottom: 10px solid goldenrod;
+}
+.middle-paralax {
+    background-image: url(../Images/Rocky\ Mountains\ 2.jpg);
+    padding: 100px;
+    height: 300px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid goldenrod;
+    border-bottom: 10px solid goldenrod;
+}
+.bottom-paralax {
+    background-image: url(../Images/Rocky\ Mountains\ 3.jpg);
+    padding: 100px;
+    height: 300px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid goldenrod;
+    border-bottom: 10px solid goldenrod;
+}
